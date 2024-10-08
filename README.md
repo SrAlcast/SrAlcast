@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Alejandro Castro Varela
 
-Arquitecto técnico reconvertido en aspirante a científico de datos
+👷🏽‍♂️Arquitecto técnico reconvertido en aspirante a científico de datos
 
 🌱 Actualmente estudiando Data Science
 

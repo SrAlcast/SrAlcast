@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Alejandro Castro Varela
 
-<!--
-**SrAlcast/SrAlcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Arquitecto técnico reconvertido en aspirante a científico de datos
 
-Here are some ideas to get you started:
+🌱 Actualmente estudiando Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contacta conmigo en alexcastrovarela@gmail.com
+
+Connect with me:
+https://www.linkedin.com/in/alejandro-castro-varela/
+
+Languages and Tools:
+mongodb mysql postgresql python

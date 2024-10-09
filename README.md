@@ -1,19 +1,14 @@
 # 🚀 **¡Bienvenidos a mi Repositorio!** 🎨
 
-![Header Imagen](https://your-image-url.com)
+![Header Imagen](https://media.licdn.com/dms/image/v2/C4E16AQHZXadyQox-aA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1605626250783?e=2147483647&v=beta&t=tgOOzLCNpczdhRaZgwCo50IDFAyW-33EysgS8lOqEfw)
 
-### Hola, soy **[Tu Nombre]** 👋
+### Hola, soy **[Alex]** 👋
 
 ¡Bienvenidos a mi espacio de código y aprendizaje! Aquí comparto proyectos que reflejan mi experiencia en **Python**, análisis de datos y automatización. 🌐 Explora y siéntete libre de contribuir o comentar cualquier idea. 😄
 
 ---
 
 ## 🔥 **GitHub Stats:**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true&hide=prs,issues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=true" />
-</div>
 
 ---
 
@@ -39,7 +34,7 @@
 
 ## 👀 **¿Quién Soy?**
 
-Soy un apasionado de la tecnología y la ciencia de datos, con experiencia en **Python**, **análisis de datos** y **automatización de tareas repetitivas**. Cuando no estoy codificando, disfruto explorando nuevas herramientas de análisis o aprendiendo sobre las últimas tendencias en tecnología.
+Soy un apasionado estudiante de la tecnología y la ciencia de datos, con experiencia en **Python**, **Análisis de datos** y **Automatización de tareas repetitivas**. Cuando no estoy codificando, disfruto explorando nuevas herramientas de análisis o practicando mi pasión por el surf.
 
 - 🔭 Actualmente estudiando en [HACK(io)](https://www.hackio.com/).
 - 🌱 Aprendiendo sobre **Data Science**.

@@ -2,7 +2,7 @@
 
 ![Header Imagen](https://media.licdn.com/dms/image/v2/C4E16AQHZXadyQox-aA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1605626250783?e=2147483647&v=beta&t=tgOOzLCNpczdhRaZgwCo50IDFAyW-33EysgS8lOqEfw)
 
-### Hola, soy **[Alex]** 👋
+### Hola, soy **Alex** 👋
 
 ¡Bienvenidos a mi espacio de código y aprendizaje! Aquí comparto proyectos que reflejan mi experiencia en **Python**, análisis de datos y automatización. 🌐 Explora y siéntete libre de contribuir o comentar cualquier idea. 😄
 

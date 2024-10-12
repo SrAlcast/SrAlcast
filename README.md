@@ -1,23 +1,18 @@
-# 🚀 **¡Bienvenidos a mi Repositorio!** 🤙
+# Hola, soy **Alex** 👋
+
+¡Bienvenido a mi espacio de código y aprendizaje! Aquí comparto proyectos que reflejan mi experiencia en **Python**, **análisis de datos** y otros codigo de programación. 🌐 Explora y siéntete libre de contribuir o comentar cualquier idea. 😄
 
 ![Header Imagen](https://github.com/SrAlcast/SrAlcast/blob/main/PIXEL%20ART.png)
-
-### Hola, soy **Alex** 👋
-
-¡Bienvenidos a mi espacio de código y aprendizaje! Aquí comparto proyectos que reflejan mi experiencia en **Python**, análisis de datos y automatización. 🌐 Explora y siéntete libre de contribuir o comentar cualquier idea. 😄
 
 ---
 ## 👀 **¿Quién Soy?**
 
-Soy un apasionado estudiante de la tecnología y la ciencia de datos, con experiencia en **Python**, **Análisis de datos** y **Automatización de tareas repetitivas**. Cuando no estoy codificando, disfruto explorando nuevas herramientas de análisis o practicando mi pasión por el surf.
+Soy un apasionado estudiante de la tecnología y la ciencia de datos, con experiencia en **Python**, **Análisis de datos** y **Automatización de tareas repetitivas**. Cuando no estoy codificando, disfruto explorando nuevas herramientas de análisis o practicando mi pasión por el surf o el fútbol.
 
 - 🔭 Actualmente estudiando en [HACK(io)](https://www.hackio.com/).
 - 🌱 Aprendiendo sobre **Data Science**.
 - 💬 Pregúntame sobre **Python**, **Análisis de datos** y **Automatización con Excel**.
 - 📫 Contáctame: [Correo Electrónico](mailto:alexcastrovarela@gmail.com)
----
-## 🔥 **GitHub Stats:**
-
 ---
 
 ## 🚀 **Skills y Tecnologías:**
@@ -31,6 +26,11 @@ Soy un apasionado estudiante de la tecnología y la ciencia de datos, con experi
 </p>
 
 ---
+
+## 🔥 **GitHub Stats:**
+
+---
+
 
 ## 🎯 **Mis Proyectos Destacados** 🌟
 

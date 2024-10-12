@@ -1,13 +1,21 @@
-# 🚀 **¡Bienvenidos a mi Repositorio!** 🎨
+# 🚀 **¡Bienvenidos a mi Repositorio!** 🤙
 
-![Header Imagen](https://media.licdn.com/dms/image/v2/C4E16AQHZXadyQox-aA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1605626250783?e=2147483647&v=beta&t=tgOOzLCNpczdhRaZgwCo50IDFAyW-33EysgS8lOqEfw)
+![Header Imagen](https://github.com/SrAlcast/SrAlcast/blob/main/PIXEL%20ART.png)
 
 ### Hola, soy **Alex** 👋
 
 ¡Bienvenidos a mi espacio de código y aprendizaje! Aquí comparto proyectos que reflejan mi experiencia en **Python**, análisis de datos y automatización. 🌐 Explora y siéntete libre de contribuir o comentar cualquier idea. 😄
 
 ---
+## 👀 **¿Quién Soy?**
 
+Soy un apasionado estudiante de la tecnología y la ciencia de datos, con experiencia en **Python**, **Análisis de datos** y **Automatización de tareas repetitivas**. Cuando no estoy codificando, disfruto explorando nuevas herramientas de análisis o practicando mi pasión por el surf.
+
+- 🔭 Actualmente estudiando en [HACK(io)](https://www.hackio.com/).
+- 🌱 Aprendiendo sobre **Data Science**.
+- 💬 Pregúntame sobre **Python**, **Análisis de datos** y **Automatización con Excel**.
+- 📫 Contáctame: [Correo Electrónico](mailto:alexcastrovarela@gmail.com)
+---
 ## 🔥 **GitHub Stats:**
 
 ---
@@ -24,25 +32,6 @@
 
 ---
 
-## 📊 **Más estadísticas interactivas:**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical&hide_border=true" alt="Streak Stats" />
-  <br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=tu-usuario&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true" alt="GitHub Activity Graph">
-</p>
-
-## 👀 **¿Quién Soy?**
-
-Soy un apasionado estudiante de la tecnología y la ciencia de datos, con experiencia en **Python**, **Análisis de datos** y **Automatización de tareas repetitivas**. Cuando no estoy codificando, disfruto explorando nuevas herramientas de análisis o practicando mi pasión por el surf.
-
-- 🔭 Actualmente estudiando en [HACK(io)](https://www.hackio.com/).
-- 🌱 Aprendiendo sobre **Data Science**.
-- 💬 Pregúntame sobre **Python**, **Análisis de datos** y **Automatización con Excel**.
-- 📫 Contáctame: [Correo Electrónico](mailto:alexcastrovarela@gmail.com)
-
----
-
 ## 🎯 **Mis Proyectos Destacados** 🌟
 
 ### 📊 Proyecto 1:
@@ -50,7 +39,7 @@ Soy un apasionado estudiante de la tecnología y la ciencia de datos, con experi
 
 ### ⚙️ Proyecto 2:
 
-
+---
 ## 🤝 **Conecta Conmigo:**
 
 <p align="center">

@@ -49,4 +49,3 @@ Soy un apasionado estudiante de la tecnología y la ciencia de datos, con experi
 
 ---
 
-### **¡Gracias por visitar mi repositorio!** 🙌

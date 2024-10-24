@@ -15,7 +15,7 @@ Soy un apasionado estudiante de la tecnología y la ciencia de datos, con experi
 - 📫 Contáctame: [Correo Electrónico](mailto:alexcastrovarela@gmail.com) o [LinkedIn](https://www.linkedin.com/in/alejandro-castro-varela/)
 ---
 
-## 🚀 **Skills y Tecnologías:**
+## 🚀 **Skills y Tecnologías**
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />  
@@ -26,19 +26,20 @@ Soy un apasionado estudiante de la tecnología y la ciencia de datos, con experi
 
 ---
 
-## 🔥 **GitHub Stats:**
+## 🔥 **GitHub Stats**
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=SrAlcast&show_icons=true)
 
 ---
 
 
-## 🎯 **Mis Proyectos Destacados** 🌟
+## 🎯 **Mis Proyectos Destacados**   
 En proceso...  
+   
 ![Proyectos](https://miro.medium.com/v2/resize:fit:960/0*Xe037qQ1N2SeL_d7.gif)
 
 
 ---
-## 🤝 **Conecta Conmigo:**
+## 🤝 **Conecta Conmigo**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-castro-varela/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>

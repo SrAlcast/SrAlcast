@@ -1,4 +1,4 @@
-# Hola, soy **Alex** 👋
+# Hola, soy **Alex** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ¡Bienvenido a mi espacio de código y aprendizaje! Aquí comparto proyectos que reflejan mi experiencia en **Python**, **análisis de datos** y otros codigo de programación. 🌐 Explora y siéntete libre de contribuir o comentar cualquier idea. 😄
 
@@ -11,8 +11,8 @@ Soy un apasionado estudiante de la tecnología y la ciencia de datos, con experi
 
 - 🔭 Actualmente estudiando en [HACK(io)](https://www.hackio.com/).
 - 🌱 Aprendiendo sobre **Data Science**.
-- 💬 Pregúntame sobre **Python**, **Análisis de datos** y **Automatización con Excel**.
-- 📫 Contáctame: [Correo Electrónico](mailto:alexcastrovarela@gmail.com)
+- 💬 Pregúntame sobre **Python**, **SQL** o **Análisis de datos**.
+- 📫 Contáctame: [Correo Electrónico](mailto:alexcastrovarela@gmail.com) o [LinkedIn](https://www.linkedin.com/in/alejandro-castro-varela/)
 ---
 
 ## 🚀 **Skills y Tecnologías:**
@@ -23,21 +23,19 @@ Soy un apasionado estudiante de la tecnología y la ciencia de datos, con experi
   <img src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
-</p>
 
 ---
 
 ## 🔥 **GitHub Stats:**
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=SrAlcast&show_icons=true)
 
 ---
 
 
 ## 🎯 **Mis Proyectos Destacados** 🌟
+En proceso...  
+![Proyectos](https://miro.medium.com/v2/resize:fit:960/0*Xe037qQ1N2SeL_d7.gif)
 
-### 📊 Proyecto 1:
-
-
-### ⚙️ Proyecto 2:
 
 ---
 ## 🤝 **Conecta Conmigo:**
